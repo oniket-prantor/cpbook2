@@ -1,2 +1,4 @@
 Here are some massages:
+ - local copy cloned
+ - first revision in progress
 
